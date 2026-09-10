@@ -1,1 +1,1 @@
-https://github.com/FranciscoOrellanaT/comp484-hw2
+https://franciscoorellanat.github.io/comp484-hw2/
